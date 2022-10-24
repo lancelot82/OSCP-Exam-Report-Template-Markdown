@@ -15,9 +15,9 @@ book: true
 classoption: oneside
 code-block-font-size: \scriptsize
 ---
-# Offensive Security OSCP Exam Report
+# **Offensive Security OSCP Exam Report**
 
-## Introduction
+## **Introduction**
 
 The Offensive Security Exam penetration test report contains all efforts that were conducted in order to pass the Offensive Security exam.
 This report will be graded from a standpoint of correctness and fullness to all aspects of the exam.
@@ -100,6 +100,21 @@ In some cases, some ports may not be listed.
 The penetration testing portions of the assessment focus heavily on gaining access to a variety of systems.
 During this penetration test, I was able to successfully gain access to **X** out of the **X** systems.
 
+## Maintaining Access
+
+Maintaining access to a system is important to us as attackers, ensuring that we can get back into a system after it has been exploited is invaluable.
+The maintaining access phase of the penetration test focuses on ensuring that once the focused attack has occurred (i.e. a buffer overflow), we have administrative access over the system again.
+Many exploits may only be exploitable once and we may never be able to get back into a system after we have already performed the exploit.
+
+## House Cleaning
+
+The house cleaning portions of the assessment ensures that remnants of the penetration test are removed.
+Often fragments of tools or user accounts are left on an organization's computer which can cause security issues down the road.
+Ensuring that we are meticulous and no remnants of our penetration test are left over is important.
+
+After collecting trophies from the exam network was completed, I removed all user accounts and passwords as well as the Meterpreter services installed on the system.
+Offensive Security should not have to remove any user accounts or services from the system.
+
 \newpage
 
 ### Individual Challenges
@@ -125,8 +140,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Proof of Concept Code Here:**
-
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 **Local.txt Proof Screenshot**
 
 **Local.txt Contents**
@@ -143,7 +157,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Exploit Code:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Proof Screenshot Here:**
 
@@ -170,7 +184,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Proof of Concept Code Here:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Local.txt Proof Screenshot**
 
@@ -188,7 +202,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Exploit Code:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Proof Screenshot Here:**
 
@@ -215,7 +229,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Proof of Concept Code Here:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Local.txt Proof Screenshot**
 
@@ -233,7 +247,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Exploit Code:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Proof Screenshot Here:**
 
@@ -260,7 +274,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Proof of Concept Code Here:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Local.txt Proof Screenshot**
 
@@ -278,7 +292,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Exploit Code:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Proof Screenshot Here:**
 
@@ -341,7 +355,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Proof of Concept Code Here:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Local.txt Proof Screenshot**
 
@@ -359,7 +373,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Exploit Code:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Proof Screenshot Here:**
 
@@ -386,7 +400,7 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Proof of Concept Code Here:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Local.txt Proof Screenshot**
 
@@ -404,26 +418,11 @@ Server IP Address | Ports Open
 
 **Severity:**
 
-**Exploit Code:**
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 
 **Proof Screenshot Here:**
 
 **Proof.txt Contents:**
-
-## Maintaining Access
-
-Maintaining access to a system is important to us as attackers, ensuring that we can get back into a system after it has been exploited is invaluable.
-The maintaining access phase of the penetration test focuses on ensuring that once the focused attack has occurred (i.e. a buffer overflow), we have administrative access over the system again.
-Many exploits may only be exploitable once and we may never be able to get back into a system after we have already performed the exploit.
-
-## House Cleaning
-
-The house cleaning portions of the assessment ensures that remnants of the penetration test are removed.
-Often fragments of tools or user accounts are left on an organization's computer which can cause security issues down the road.
-Ensuring that we are meticulous and no remnants of our penetration test are left over is important.
-
-After collecting trophies from the exam network was completed, I removed all user accounts and passwords as well as the Meterpreter services installed on the system.
-Offensive Security should not have to remove any user accounts or services from the system.
 
 # Additional Items
 
