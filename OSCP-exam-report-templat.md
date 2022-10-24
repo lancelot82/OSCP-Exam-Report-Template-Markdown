@@ -145,6 +145,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -171,6 +174,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -204,6 +210,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -230,6 +239,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -263,6 +275,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -289,6 +304,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -322,6 +340,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -348,6 +369,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -417,6 +441,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -443,6 +470,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -476,6 +506,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -502,6 +535,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -535,6 +571,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -561,6 +600,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -594,6 +636,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
@@ -620,6 +665,9 @@ Server IP Address | Ports Open
 *Additional info about where the initial shell was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
 
 **Post-Exploitation:**
 
