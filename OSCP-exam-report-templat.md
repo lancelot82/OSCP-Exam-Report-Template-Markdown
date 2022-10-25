@@ -169,74 +169,9 @@ code here
 
 **Steps to reproduce the attack:** 
 
-**Priv Esc Vulnerability Exploited*
+*Priv Esc Vulnerability Exploited*
 
-*Additional info about where the *Priv Esc was acquired from*
-
-**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
-```python
-code here
-```
-
-**Post-Exploitation:**
-
-**Proof Screenshot Here:**
-
-**Proof.txt Contents:**
-
-### **System IP: 192.168.x.x**
-
-#### **Service Enumeration**
-
-Server IP Address | Ports Open
-------------------|----------------------------------------
-192.168.x.x       | **TCP**: 1433,3389\
-**UDP**: 1434,161
-
-**Nmap Scan Results:**
-
-#### **Initial Access - **
-
-**Vulnerability Explanation:**
-
-**Vulnerability Fix:**
-
-**Severity:**
-
-**Steps to reproduce the attack:** 
-
-*Initial Shell Vulnerability Exploited*
-
-*Additional info about where the initial shell was acquired from*
-
-**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
-```python
-code here
-```
-
-**Post-Exploitation:**
-
-**Local.txt Proof Screenshot**
-
-**Local.txt Contents**
-
-#### **Privilege Escalation - **
-
-*Additional Priv Esc info*
-
-**Vulnerability Exploited:**
-
-**Vulnerability Explanation:**
-
-**Vulnerability Fix:**
-
-**Severity:**
-
-**Steps to reproduce the attack:** 
-
-**Priv Esc Vulnerability Exploited*
-
-*Additional info about where the *Priv Esc was acquired from*
+*Additional info about where the Priv Esc was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 ```python
@@ -299,9 +234,9 @@ code here
 
 **Steps to reproduce the attack:** 
 
-**Priv Esc Vulnerability Exploited*
+*Priv Esc Vulnerability Exploited*
 
-*Additional info about where the *Priv Esc was acquired from*
+*Additional info about where the Priv Esc was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 ```python
@@ -364,9 +299,74 @@ code here
 
 **Steps to reproduce the attack:** 
 
-**Priv Esc Vulnerability Exploited*
+*Priv Esc Vulnerability Exploited*
 
-*Additional info about where the *Priv Esc was acquired from*
+*Additional info about where the Priv Esc was acquired from*
+
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
+
+**Post-Exploitation:**
+
+**Proof Screenshot Here:**
+
+**Proof.txt Contents:**
+
+### **System IP: 192.168.x.x**
+
+#### **Service Enumeration**
+
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.x.x       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
+**Nmap Scan Results:**
+
+#### **Initial Access - **
+
+**Vulnerability Explanation:**
+
+**Vulnerability Fix:**
+
+**Severity:**
+
+**Steps to reproduce the attack:** 
+
+*Initial Shell Vulnerability Exploited*
+
+*Additional info about where the initial shell was acquired from*
+
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
+
+**Post-Exploitation:**
+
+**Local.txt Proof Screenshot**
+
+**Local.txt Contents**
+
+#### **Privilege Escalation - **
+
+*Additional Priv Esc info*
+
+**Vulnerability Exploited:**
+
+**Vulnerability Explanation:**
+
+**Vulnerability Fix:**
+
+**Severity:**
+
+**Steps to reproduce the attack:** 
+
+*Priv Esc Vulnerability Exploited*
+
+*Additional info about where the Priv Esc was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 ```python
@@ -465,74 +465,9 @@ code here
 
 **Steps to reproduce the attack:** 
 
-**Priv Esc Vulnerability Exploited*
+*Priv Esc Vulnerability Exploited*
 
-*Additional info about where the *Priv Esc was acquired from*
-
-**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
-```python
-code here
-```
-
-**Post-Exploitation:**
-
-**Proof Screenshot Here:**
-
-**Proof.txt Contents:**
-
-### **System IP: 192.168.x.x**
-
-#### **Service Enumeration**
-
-Server IP Address | Ports Open
-------------------|----------------------------------------
-192.168.x.x       | **TCP**: 1433,3389\
-**UDP**: 1434,161
-
-**Nmap Scan Results:**
-
-#### **Initial Access - **
-
-**Vulnerability Explanation:**
-
-**Vulnerability Fix:**
-
-**Severity:**
-
-**Steps to reproduce the attack:** 
-
-*Initial Shell Vulnerability Exploited*
-
-*Additional info about where the initial shell was acquired from*
-
-**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
-```python
-code here
-```
-
-**Post-Exploitation:**
-
-**Local.txt Proof Screenshot**
-
-**Local.txt Contents**
-
-#### **Privilege Escalation - **
-
-*Additional Priv Esc info*
-
-**Vulnerability Exploited:**
-
-**Vulnerability Explanation:**
-
-**Vulnerability Fix:**
-
-**Severity:**
-
-**Steps to reproduce the attack:** 
-
-**Priv Esc Vulnerability Exploited*
-
-*Additional info about where the *Priv Esc was acquired from*
+*Additional info about where the Priv Esc was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 ```python
@@ -595,9 +530,9 @@ code here
 
 **Steps to reproduce the attack:** 
 
-**Priv Esc Vulnerability Exploited*
+*Priv Esc Vulnerability Exploited*
 
-*Additional info about where the *Priv Esc was acquired from*
+*Additional info about where the Priv Esc was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 ```python
@@ -660,9 +595,74 @@ code here
 
 **Steps to reproduce the attack:** 
 
-**Priv Esc Vulnerability Exploited*
+*Priv Esc Vulnerability Exploited*
 
-*Additional info about where the *Priv Esc was acquired from*
+*Additional info about where the Priv Esc was acquired from*
+
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
+
+**Post-Exploitation:**
+
+**Proof Screenshot Here:**
+
+**Proof.txt Contents:**
+
+### **System IP: 192.168.x.x**
+
+#### **Service Enumeration**
+
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.x.x       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
+**Nmap Scan Results:**
+
+#### **Initial Access - **
+
+**Vulnerability Explanation:**
+
+**Vulnerability Fix:**
+
+**Severity:**
+
+**Steps to reproduce the attack:** 
+
+*Initial Shell Vulnerability Exploited*
+
+*Additional info about where the initial shell was acquired from*
+
+**Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
+```python
+code here
+```
+
+**Post-Exploitation:**
+
+**Local.txt Proof Screenshot**
+
+**Local.txt Contents**
+
+#### **Privilege Escalation - **
+
+*Additional Priv Esc info*
+
+**Vulnerability Exploited:**
+
+**Vulnerability Explanation:**
+
+**Vulnerability Fix:**
+
+**Severity:**
+
+**Steps to reproduce the attack:** 
+
+*Priv Esc Vulnerability Exploited*
+
+*Additional info about where the Priv Esc was acquired from*
 
 **Proof of Concept Code Here:** modification to the original exploit code, if any, are highlighted in red.
 ```python
